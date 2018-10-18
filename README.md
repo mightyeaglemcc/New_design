@@ -1,3 +1,3 @@
 # New_design
 
-For those who are interested to build the website for our campus club.
+To keep record of the activities of the campus club and performance of the team.
